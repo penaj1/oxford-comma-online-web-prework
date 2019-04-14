@@ -1,3 +1,4 @@
 def oxford_comma(fruit)
-  ["kiwi"].join(fruit)
+  ["kiwi"].join
+  
 end
